@@ -45,7 +45,7 @@ satoshi: Join me in welcoming our first timers with a round of applause everyone
 
 satoshi: OK and to anyone else who doesn't want to be identified as being in the OGs or the first timers then don't say or do anything: now!
 
-First timers, in a minute all go and sit with the <First Timers Tutor> and they will read you in, but now its time for our tourists section, bit of fun to get everyone warmed up.
+First timers, in a minute all go and sit with the [First Timers Tutor] and they will read you in, but now its time for our tourists section, bit of fun to get everyone warmed up.
 
 ## Tourists
 Any Bitcoin Meetup enthusiast or tourists from another region shout out and/or raise your hand "There is no second best!" 
