@@ -1,23 +1,33 @@
 # Bitcoin Meetup Template
 
-You will need:
-A private room or space away from other noise where you know you can control the environment (light, sounds, heat etc)
-Presentation display(optional)
-Mics and sounds system(optional)
+**You will need:**
+- A private room or space away from other noise where you know you can control the environment (light, sounds, heat etc)
+- Presentation display(optional)
+- Mics and sounds system(optional)
 
-Roles(could all be done by 1 person if is a small meetup): 
-Satoshi <Meetup Name>
-Greeter
-First Timers 'Tutor' (better role name needed)
-Producer
-Security
+**Roles(could all be done by 1 person if a small meetup):**
+- Satoshi <Region Name> (i.e. Satoshi Nottingham)
+- Greeter/Ushers
+- First Timers Welcomer (Can you think of a better name for this role?)
+- Producer
+- Photographer 
+- Security
 
-Pre Event Reception
-It is a good idea to have something to give people, or that they can hold and look at as soon as they come through the door so as to avoid that uncomfortable feeling of What do I do? Where do i go?
+## Pre Event Setup
+- Place signage near the entrance of the venue so first timers are confident they're in the right place
+- Have feedback forms to give on arrival with qr codes and links to discussion groups and Meetups Group Twitter handle
+- Make sure any food is ordered and timing agreed
+- Venue check to ensure room is as required and toilets are OK
+- What is the best table/seating layout for a Bitcoin Meetup?
+	
+## Meet and Greet
+Welcome all attendees as they enter the private space. It is a good idea to have something to give people something they can hold and look at as soon as they come through the door and direct them to "get a drink at the bar" and "have a seat anywhere you like" 
+	
+## Meetup Start 
+- Begin exactly at advertised time for those who were early or on time
+- Event Producer to note current block height and the number of attendees
 
-Start of Meetup at advertised time
-
-satoshi: Welcome to the #th Bitcoin Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
+Satoshi: Welcome to the #th Bitcoin <Region Name> Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
 
 Introduction of the Satoshi for the night and their team and roles
 
@@ -113,15 +123,16 @@ Workshopping Bitcoin Lighting (OGs and first timers who graduate)
 	Running your own Lightning Node
 
 
-Review of Past and Upcoming Bitcoin Events
+## Bitcoin Events Review 
 i.e. Bitcoin Miami
 
-Photo Opportunity
+## Photo Opportunity
 Official Meetup Proof of Work photograph at block height/number nnn,nnn
-
+	- Remember to include an annalogue of the current block number(and date) in the photographs to create unbreakable event records
+	- Usse the satoshi masks or other face coverings for guests that might not want their faces in the images
 
 In Closing
-If you want further information on any topics discussed this evening or have other bitcoin questions then please be sure to complete a feedback form so that we can follow up with you and share additional resources.
+If you want further information on any topics discussed this evening or have other bitcoin questions then please be sure to complete a feedback form so that we can follow up with you and share additional resources in future.
 
 Next Meetup
 Date, time and venue plus any special features
