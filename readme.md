@@ -8,7 +8,7 @@
 **Roles(could all be done by 1 person if a small meetup):**
 - Satoshi [Region Name] (i.e. Satoshi Nottingham)
 - Greeter/Ushers
-- First Timers Welcomer (Can you think of a better name for this role?)
+- Meeting Buddies (for first time visitors) 
 - Producer
 - Photographer 
 - Security
