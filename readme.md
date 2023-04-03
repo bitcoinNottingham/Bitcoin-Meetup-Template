@@ -31,10 +31,10 @@ Satoshi: Welcome to the #th Bitcoin <Region Name> Meetup which is now officially
 
 Introduction of the Satoshi for the night and their team and roles
 
-Overview of Meetup
+## Overview of Meetup
 (Needed content)
 
-OGs and Newbies!
+## OGs and Newbies!
 satoshi: If you have been to any kind of Bitcoin Meetup before, raise your hand and/or shout out "Bitcoin is Freedom!" 
 Bitcoin is Freedom!
 
@@ -47,11 +47,11 @@ satoshi: OK and to anyone else who doesn't want to be identified as being in the
 
 First timers, in a minute all go and sit with the <First Timers Tutor> and they will read you in, but now its time for our tourists section, bit of fun to get everyone warmed up.
 
-Tourists
+## Tourists
 Any Bitcoin Meetup enthusiast or tourists from another region shout out and/or raise your hand "There is no second best!" 
 There is no second best!
 
-The Most Dedicated Tourist Competition!
+## The Most Dedicated Tourist Competition!
 The prize for this competition is 50,000 satoshi to the person who has traveled the furthest to be here this evening! So if you think you might have come the furthest this evening then shout out where you've come from today and or raise your hand!
 Cardiff!
 Derby!
@@ -62,48 +62,55 @@ The winner is….
 		(Learn about Bitcoin transaction confirmations if you don't get this link)
 	Does Cardiff person have a Bitcoin Lightning Wallet?
 
-First Timers Tutor Group
-Cover the basics in 5 mins: Satoshi, Whitepaper, 2008/2009, Bitcoin Miners create new Bitcoins every 10 minutes, Halvings, ----> Lightning Wallet.
+## First Timers Welcome
+Cover the basics in 5-10 mins! with the start of "The Bitcoin Story"(help us write this in open source): Satoshi Nakamoto, Whitepaper, 31st October 2008/ 3rd January 2009, Bitcoin Miners create a new block and new Bitcoins every 10 minutes, Halvings every 4 years, Hash rate ----> Lightning Wallet "sats".
 
-The Bitcoin Pizza segment
-On 22nd May 2010, Laszlo Hanyecz bought a pizza for 10,000 bitcoins. This is the current USD value of that pizza.
-https://twitter.com/bitcoin_pizza 
-The Bitcoin pizza is worth $nnn hundreds of millions of dollars today. (+/-n% from last meetup)
-
-Bankers Bingo
-https://twitter.com/BitcoinMagazine/status/1639585385465491457?s=20 
-Which new banks have gone bust, had a bank run or bailout since last meetup?
-
-BTC<>Fiat Gateways and Bank Reports
+## BTC<>Fiat Gateways and Bank Reports
 Which banks or exchanges do you have direct experience of and which services have you used successfully or know not to be working since last meetup
 i.e. Binance fiat withdrawals suspended, Bitnob fiat withdrawals and virtual Mastercard are up as of yesterday, Natwest bank are blocking bitcoin purchases. 
 
-Representing and Peacocking! (Networking introduction and show off your Bitcoin merch!)
+## Representing and Peacocking! (Networking introduction and show off your Bitcoin merch!)
 Quick fire things (time limit? 30 secs, 1 min, 2 mins? - branded countdown timer?)
-Who are you?
-What part of Notts/UK/community are you representing?
-What awesome Bitcoin merch are you showing off?
-Name 2 Bitcoin things that are puzzling you or fascinating you at the moment?
-Introduce anyone you brought with you
+- Who are you?
+- What team or region are you representing? What part of a city, country or community do you consider yourself to be one of?
+- What awesome Bitcoin merch are you showing off?
+- Name 2 Bitcoin things that are puzzling you or fascinating you at the moment?
+- Introduce anyone you brought with you
 
-Scam Watch
+## Scam Watch
 An opportunity for members to inform fellow members of any Bitcoin scams to be aware of this month
+	
+## Bankers Bingo
+https://twitter.com/BitcoinMagazine/status/1639585385465491457?s=20 
+Which new banks have gone bust, had a bank run or bailout since last meetup?
 
-Bitcoin App of the Day
+## Bitcoin Code Review
+Who are the bitcoin code guardians, who ultimately is responsible for approving new commits to the bitcoin software and will all commits get applied by all the nodes?
+	- Current version
+	- % adoption
+	- Newest commits
+	
+## Bankers Bingo
+https://twitter.com/BitcoinMagazine/status/1639585385465491457?s=20 
+Which new banks have gone bust, had a bank run or bailout since last meetup?Bitcoin App of the Day
 An opportunity for members to report on any great Bitcoin apps or offers they found (not your own products)
 
-Auction/Merch
-Any auctions closing at 8?
-New caps, t-shirts, mugs and stickers!
+## Auction/Merch
+- Any auctions closing at 8?
+- New caps, t-shirts, mugs and stickers!
 
-BAR BREAK (mention any sponsors of the meetup and put their website or demo video on screen)
+# BAR BREAK 
+- (mention any sponsors of the meetup and put their website or demo video on screen)
+- Satoshi's Bookmarks from #Bitcoin Twitter (BT)
 
-Satoshi's Bookmarks from #Bitcoin Twitter (BT)
-
-
+# PART TWO
+## Shilling Point!
 Three 5-15 minute intros into something by a volunteer or member (Must be Bitcoin branded and available in BTC)
+	1. Bitcoin Nottingham sats shop
+	2.
+	3.
 
-Workshopping Bitcoin Lighting (First timers)
+## Workshopping Bitcoin Lighting (First timers)
 First time Lightning Wallet users get 10,000 sats each to begin their Bitcoin journey with!
 Download an app
 	Wallet of Satoshi
@@ -117,11 +124,10 @@ share the @payment address and receive 5000 sats!
 Learning: Sometimes your only opportunity to transmit the payment address is verbal, use "hairysweater43@loungeofsatoshi.com" or a very cool personalised "sats@yourshopname.com" bitcoin Lightning instant payment address (a blipa!)
 
 
-Workshopping Bitcoin Lighting (OGs and first timers who graduate)
+## Workshopping Bitcoin Lighting (OGs and first timers who graduate)
 	Newest Lightning storage/wallets/cold cards
 	Coolest Lightning use case (cooler than the beer tap?)
 	Running your own Lightning Node
-
 
 ## Bitcoin Events Review 
 i.e. Bitcoin Miami - May 18th - 20th
@@ -131,11 +137,17 @@ Official Meetup Proof of Work photograph at block height/number nnn,nnn
 	- Remember to include an annalogue of the current block number(and date) in the photographs to create unbreakable event records
 	- Usse the satoshi masks or other face coverings for guests that might not want their faces in the images
 
-In Closing
+## Let's talk about Bitcoin Price!
+	- The Bitcoin Pizza segment. On 22nd May 2010, Laszlo Hanyecz bought a pizza for 10,000 bitcoins. The current USD value of that pizza is https://twitter.com/bitcoin_pizza The Bitcoin pizza is worth $nnn hundreds of millions of dollars today. (+/- since last meetup)
+	- Current, high and low prices for last 24 hours/week/month/year/all time https://www.binance.com/en/trade/BTC_USDT?
+	- Bitcoin CME Futures Gaps! https://finance.yahoo.com/quote/BTC-USD/history/
+	
+	
+# In Closing
 If you want further information on any topics discussed this evening or have other bitcoin questions then please be sure to complete a feedback form so that we can follow up with you and share additional resources in future.
 
-Next Meetup
+# Next Meetup
 Date, time and venue plus any special features
 
-Continuing the Discussions
+# Continuing the Discussions
 Stay connected and join the Meetup Telegram Group by scanning the QR code or find the link on the website at www.yourmeetupsite.url
