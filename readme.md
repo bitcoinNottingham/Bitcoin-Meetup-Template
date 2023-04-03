@@ -124,7 +124,7 @@ Workshopping Bitcoin Lighting (OGs and first timers who graduate)
 
 
 ## Bitcoin Events Review 
-i.e. Bitcoin Miami
+i.e. Bitcoin Miami - May 18th - 20th
 
 ## Photo Opportunity
 Official Meetup Proof of Work photograph at block height/number nnn,nnn
