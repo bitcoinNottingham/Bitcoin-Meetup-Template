@@ -15,10 +15,11 @@
 
 ## Pre Event Setup
 - Place signage near the entrance of the venue so first timers are confident they're in the right place
-- Have feedback forms to give on arrival with qr codes and links to discussion groups and Meetups Group Twitter handle
+- Have feedback forms to give on arrival with QR codes and links to discussion groups and Meetups Group Twitter handle
 - Make sure any food is ordered and timing agreed
 - Venue check to ensure room is as required and toilets are OK
 - What is the best table/seating layout for a Bitcoin Meetup?
+- Pop something dynamic on the screen like https://bits.monospace.live/ or https://www.bitlisten.com/ 
 	
 ## Meet and Greet
 Welcome all attendees as they enter the private space. It is a good idea to have something to give people something they can hold and look at as soon as they come through the door and direct them to "get a drink at the bar" and "have a seat anywhere you like" 
