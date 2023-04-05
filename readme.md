@@ -32,7 +32,11 @@ Satoshi: Welcome to the #th Bitcoin <Region Name> Meetup which is now officially
 Introduction of the Satoshi for the night and their team and roles
 
 ## Overview of Meetup
-(Needed content)
+These meetups provide an opportunity to learn about Bitcoin from individuals who have been studying it for many years and transact with Bitcoin (BTC) on a daily basis, both locally and globally. The goal of this group is to foster greater adoption in Nottingham among merchants and encourage the development of circular economies.
+
+Please note that this meetup is not meant to provide financial or investment advice. It is for informational and entertainment purposes only. No purchase is necessary, and we will not ask for any personal data unless you make an enquiry and request that we get back to you after the event. 
+
+Always conduct your own research to verify any information you receive from us, as we might be mistaken or operating under incorrect assumptions ourselves!
 
 ## OGs and Newbies!
 satoshi: If you have been to any kind of Bitcoin Meetup before, raise your hand and/or shout out "Bitcoin is Freedom!" 
