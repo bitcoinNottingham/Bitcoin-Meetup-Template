@@ -94,11 +94,12 @@ Who are the bitcoin code guardians, who ultimately is responsible for approving 
 	- Current version
 	- % adoption
 	- Newest commits
-	
-## Bankers Bingo
-https://twitter.com/BitcoinMagazine/status/1639585385465491457?s=20 
-Which new banks have gone bust, had a bank run or bailout since last meetup?Bitcoin App of the Day
-An opportunity for members to report on any great Bitcoin apps or offers they found (not your own products)
+
+## Bitcoin App Spotlight
+An opportunity for members to report on any great Bitcoin apps or offers they found (not your own products) i.e
+	- OrangePillApp
+	- Lightsats.com
+	- TheSunExchange.com
 
 ## Auction/Merch
 - Any auctions closing at 8?
