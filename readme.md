@@ -100,6 +100,12 @@ An opportunity for members to report on any great Bitcoin apps or offers they fo
 	- OrangePillApp
 	- Lightsats.com
 	- TheSunExchange.com
+	
+## Bitcoin Books
+What are 3 of the bitcoin books that members have read recently i.e.
+	- [ ] Alex Gladstein Check your financial privilege
+	- [ ] Knut Svanholm Bitcoin: Everything divided by 21 million
+	- [ ] G. Edward Griffin The creature from jekyll island
 
 ## Auction/Merch
 - Any auctions closing at 8?
