@@ -70,10 +70,6 @@ The winner is….
 ## First Timers Welcome
 Cover the basics in 5-10 mins! with the start of "The Bitcoin Story"(help us write this in open source): Satoshi Nakamoto, Whitepaper, 31st October 2008/ 3rd January 2009, Bitcoin Miners create a new block and new Bitcoins every 10 minutes, Halvings every 4 years, Hash rate ----> Lightning Wallet "sats".
 
-## BTC<>Fiat Gateways and Bank Reports
-Which banks or exchanges do you have direct experience of and which services have you used successfully or know not to be working since last meetup
-i.e. Binance fiat withdrawals suspended, Bitnob fiat withdrawals and virtual Mastercard are up as of yesterday, Natwest bank are blocking bitcoin purchases. 
-
 ## Representing and Peacocking! (Networking introduction and show off your Bitcoin merch!)
 Quick fire things (time limit? 30 secs, 1 min, 2 mins? - branded countdown timer?)
 - Who are you?
@@ -82,15 +78,26 @@ Quick fire things (time limit? 30 secs, 1 min, 2 mins? - branded countdown timer
 - Name 2 Bitcoin things that are puzzling you or fascinating you at the moment?
 - Introduce anyone you brought with you
 
+## BTC<>Fiat Gateways and Bank Reports
+Which banks or exchanges do you have direct experience of and which services have you used successfully or know not to be working since last meetup
+i.e. Binance fiat withdrawals suspended, Bitnob fiat withdrawals and virtual Mastercard are up as of yesterday, Natwest bank are blocking bitcoin purchases. 
+
 ## Scam Watch
 An opportunity for members to inform fellow members of any Bitcoin scams to be aware of this month
 	
-## Bankers Bingo
+## Fun Stuff (i.e. Bankers Bingo etc)
 https://twitter.com/BitcoinMagazine/status/1639585385465491457?s=20 
 Which new banks have gone bust, had a bank run or bailout since last meetup?
 
+## Bitcoin Mining and Technical Explainer
+What 3 things about the way the bitcoin protocol works could we expand on this meetup?
+i.e
+- What percentage of Bitcoin mining electricity is reportedly from renewable or stranded energy?
+- What is the current number of zeros in the difficulty adjustment (13 Apr 2023 - 19 zeros?)
+- Why is Bitcoin zero emmissions same as an electric car?
+
 ## Bitcoin Code Review
-Who are the bitcoin code guardians, who ultimately is responsible for approving new commits to the bitcoin software and will all commits get applied by all the nodes?
+Re: https://github.com/bitcoin Who are the bitcoin code guardians, who ultimately is responsible for approving new commits to the bitcoin software and will all commits get applied by all the nodes?
 	- Current version
 	- % adoption
 	- Newest commits
