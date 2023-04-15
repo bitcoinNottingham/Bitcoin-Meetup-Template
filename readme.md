@@ -140,7 +140,7 @@ First time Lightning Wallet users get 10,000 sats each to begin their Bitcoin jo
 - Share the LNURL and receive 2500 sats!
 	Learning: Sometimes your payer can't use a QR code, what if they are on their desktop pc? Send a LNURL link instead
 - Share the @payment address and receive 5000 sats!
-	Learning: Sometimes your only opportunity to transmit the payment address is verbal, use "hairysweater43@loungeofsatoshi.com" or a very cool personalised "sats@yourshopname.com" bitcoin Lightning instant payment address (a blipa!)
+	Learning: Sometimes your only opportunity to transmit the payment address is verbal, so you can use {hairysweater43@loungeofsatoshi.com} or a very cool personalised {sats@yourshopname.com} bitcoin Lightning instant payment address (a blipa!)
 
 
 ## Workshopping Bitcoin Lighting (OGs and first timers who graduate)
@@ -171,4 +171,4 @@ If you want further information on any topics discussed this evening or have oth
 Date, time and venue plus any special features
 
 # Continuing the Discussions
-Stay connected and join the Meetup Telegram Group by scanning the QR code or find the link to our Telegram channel t.me/Bitcoin_Nottingham on the website https://www.bitcoinnottingham.org 
+Stay connected and join the Bitcoin {REGION-NAME} Meetup Telegram Group by scanning the QR code on the printouts or find the link to our Telegram channel https://t.me/bitcoin_nottingham on the website https://www.bitcoinnottingham.org 
