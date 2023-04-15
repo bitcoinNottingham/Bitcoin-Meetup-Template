@@ -98,21 +98,21 @@ i.e
 
 ## Bitcoin Code Review
 Re: https://github.com/bitcoin Who are the bitcoin code guardians, who ultimately is responsible for approving new commits to the bitcoin software and will all commits get applied by all the nodes?
-	- Current version
-	- % adoption
-	- Newest commits
+- Current version
+- % adoption
+- Newest commits
 
 ## Bitcoin App Spotlight
 An opportunity for members to report on any great Bitcoin apps or offers they found (not your own products) i.e
-	- OrangePillApp
-	- Lightsats.com
-	- TheSunExchange.com
+- OrangePillApp
+- Lightsats.com
+- TheSunExchange.com
 	
 ## Bitcoin Books
 What are 3 of the bitcoin books that members have read recently i.e.
-	- [ ] Alex Gladstein Check your financial privilege
-	- [ ] Knut Svanholm Bitcoin: Everything divided by 21 million
-	- [ ] G. Edward Griffin The creature from jekyll island
+- [ ] Alex Gladstein Check your financial privilege
+- [ ] Knut Svanholm Bitcoin: Everything divided by 21 million
+- [ ] G. Edward Griffin The creature from jekyll island
 
 ## Auction/Merch
 - Any auctions closing at 8?
@@ -124,42 +124,44 @@ What are 3 of the bitcoin books that members have read recently i.e.
 
 # PART TWO
 ## Shilling Point!
-Three 5-15 minute intros into something by a volunteer or member (Must be Bitcoin branded and available in BTC)
-	1. Bitcoin Nottingham sats shop
-	2.
-	3.
+Could have maybe upto three 5-10 minute intros into a product or service offered by a member (The suggested qualification is the product must be Bitcoin branded somehow and be available to buy in BTC)
+- 1. Bitcoin Nottingham sats shop ( www.bitcoinnottingham.org/bitcoin-shop )
+- 2. Chris Dan on options for merchants and how you can earn rewards for orange pilling a business
+- 3. [YOUR FIRM HERE]
 
 ## Workshopping Bitcoin Lighting (First timers)
 First time Lightning Wallet users get 10,000 sats each to begin their Bitcoin journey with!
-Download an app
-	Wallet of Satoshi
-	Muun Wallet
-	Breez Wallet
-Share the QR code and receive 2500 sats!
+- Download an app
+	- Wallet of Satoshi
+	- Muun Wallet
+	- Breez Wallet
+- Share the QR code and receive 2500 sats!
 	Learning: SHARE a QR code to receive bitcoin on Lightning, SCAN a QR code to send bitcoin on Lightning
-Share the LNURL and receive 2500 sats!
+- Share the LNURL and receive 2500 sats!
 	Learning: Sometimes your payer can't use a QR code, what if they are on their desktop pc? Send a LNURL link instead
-share the @payment address and receive 5000 sats!
-Learning: Sometimes your only opportunity to transmit the payment address is verbal, use "hairysweater43@loungeofsatoshi.com" or a very cool personalised "sats@yourshopname.com" bitcoin Lightning instant payment address (a blipa!)
+- Share the @payment address and receive 5000 sats!
+	Learning: Sometimes your only opportunity to transmit the payment address is verbal, use "hairysweater43@loungeofsatoshi.com" or a very cool personalised "sats@yourshopname.com" bitcoin Lightning instant payment address (a blipa!)
 
 
 ## Workshopping Bitcoin Lighting (OGs and first timers who graduate)
-	Newest Lightning storage/wallets/cold cards
-	Coolest Lightning use case (cooler than the beer tap?)
-	Running your own Lightning Node
+- Newest Lightning storage/wallets/cold cards
+- Coolest Lightning use case (cooler than the beer tap?)
+- Running your own Lightning Node
 
-## Bitcoin Events Review 
-i.e. Bitcoin Miami - May 18th - 20th
+## Review of Bitcoin Events Schedule 
+- Bitcoin Miami - May 18th - 20th
+- [YOUR EVENT HERE]
+- [OTHER EVENT HERE]
 
 ## Photo Opportunity
 Official Meetup Proof of Work photograph at block height/number nnn,nnn
-	- Remember to include an annalogue of the current block number(and date) in the photographs to create unbreakable event records
-	- Usse the satoshi masks or other face coverings for guests that might not want their faces in the images
+- Can you include an annalogue of the current block number(and date) in the photographs to create unbreakable event records?
+- Use the satoshi masks or other face coverings for guests that might not want their faces in the images
 
 ## Let's talk about Bitcoin Price!
-	- The Bitcoin Pizza segment. On 22nd May 2010, Laszlo Hanyecz bought a pizza for 10,000 bitcoins. The current USD value of that pizza is https://twitter.com/bitcoin_pizza The Bitcoin pizza is worth $nnn hundreds of millions of dollars today. (+/- since last meetup)
-	- Current, high and low prices for last 24 hours/week/month/year/all time https://www.binance.com/en/trade/BTC_USDT?
-	- Bitcoin CME Futures Gaps! https://finance.yahoo.com/quote/BTC-USD/history/
+- The Bitcoin Pizza segment. On 22nd May 2010, Laszlo Hanyecz bought a pizza for 10,000 bitcoins. The current USD value of that pizza is https://twitter.com/bitcoin_pizza The Bitcoin pizza is worth [$nnn hundreds of millions of dollars] today. (+/- since last meetup)
+- Current, high and low prices for last 24 hours/week/month/year/all time https://www.binance.com/en/trade/BTC_USDT?
+- Bitcoin CME Futures Gaps! https://finance.yahoo.com/quote/BTC-USD/history/
 	
 	
 # In Closing
@@ -169,4 +171,4 @@ If you want further information on any topics discussed this evening or have oth
 Date, time and venue plus any special features
 
 # Continuing the Discussions
-Stay connected and join the Meetup Telegram Group by scanning the QR code or find the link on the website at www.yourmeetupsite.url
+Stay connected and join the Meetup Telegram Group by scanning the QR code or find the link to our Telegram channel t.me/Bitcoin_Nottingham on the website https://www.bitcoinnottingham.org 
