@@ -114,7 +114,7 @@ An opportunity for members to report on any great Bitcoin apps or offers they fo
 ## Bitcoin Books
 What are some of the bitcoin books that members have read recently i.e.
 - [ ] Knut Svanholm Bitcoin: Everything divided by 21 million
-- [ ] Major Jason Williams Softwar
+- [ ] Major Jason Lowrey Softwar
 - [ ] Alex Gladstein Check your financial privilege
 - [ ] Knut Svanholm Bitcoin: Independence Reimagined
 - [ ] G. Edward Griffin The creature from jekyll island
