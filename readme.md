@@ -75,7 +75,7 @@ The winner is….
 Cover the basics in 5-10 mins! with the start of "The Bitcoin Story"(help us write this in open source): Satoshi Nakamoto, Whitepaper 31st October 2008, open source software peer to peer decentralized monetary network, Genesis block 3rd January 2009, 21 million max, Bitcoin Miners create a new block and new Bitcoins ~10 minutes, Halvings every 4 years, Hash rate, difficulty adjustment,  ----> Lightning Wallet "sats". Free n,000 sats for first timers who download a lightning wallet.
 
 ## Representing and Peacocking! 
-A super quick introduction for networking oportunities, chance to show off your favourite Bitcoin thing, and to see which areas of bitcoin the room needs to hear about again!
+A super quick introduction for networking opportunities, chance to show off your favourite Bitcoin thing, and to see which areas of bitcoin the room needs to hear about again!
 
 ### Handle and Tribe
 Quick once round the room and share only these 2 pieces of data(optional)
@@ -86,7 +86,7 @@ What team or region are you representing?
 (What part of a city, country or community do you consider yourself to be one of?)
 
 ### What bitcoin thing did you bring?
-Now everyone has spoken(or not) let's delve a little deeper, once round the room again to show off your bitcoin merch or thing and discover knoweldge gaps and education requirements
+Now everyone has spoken(or not) let's delve a little deeper, once round the room again to show off your bitcoin merch or thing and discover knowledge gaps and education requirements
 - 1. What is your Name or Handle?
 - 2. What awesome Bitcoin merch are you showing off and does it have a story behind it?
 - 3. What 1 thing about Bitcoin is puzzling you or fascinating you at the moment?
@@ -168,7 +168,7 @@ First time Lightning Wallet users get n,000 sats each to begin their Bitcoin jou
 
 ## Photo Opportunity
 Official Meetup Proof of Work photograph at block height/number nnn,nnn
-- Can you include an annalogue of the current block number(and date) in the photographs to create unbreakable event records?
+- Can you include an analogue of the current block number(and date) in the photographs to create unbreakable event records?
 - Use the satoshi masks or other face coverings for guests that might not want their faces in the images
 
 ## Bitcoin Price!
