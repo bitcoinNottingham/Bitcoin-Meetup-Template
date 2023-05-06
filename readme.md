@@ -54,6 +54,7 @@ satoshi: Join me in welcoming our first timers with a round of applause everyone
 
 ## Tourists
 If there are any Bitcoin Meetup enthusiast or tourists from another region give us a shout out with "There is no second best!" 
+	
 There is no second best!
 
 ## The Most Dedicated Tourist Competition!
