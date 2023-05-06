@@ -30,7 +30,7 @@ Welcome all attendees as they enter the private space. It is a good idea to have
 
 Satoshi: Welcome to the #th Bitcoin <Region Name> Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
 
-Introduction of the Satoshi for the night and their team and roles
+Introduction of the Satoshi for the night and their team and roles. Appeal for volunteers for roles next month. 
 
 ## Overview of Meetup
 These meetups provide an opportunity to learn about Bitcoin from individuals who have been studying it for many years and transact with Bitcoin (BTC) on a daily basis, both locally and globally. The goal of this group is to foster greater adoption in Nottingham among merchants and encourage the development of circular economies.
