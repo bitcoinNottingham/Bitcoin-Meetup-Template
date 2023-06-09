@@ -16,62 +16,53 @@
 
 **Pre Event Setup**
 - Place signage near the entrance of the venue so first timers are confident they're in the right place
-- Have feedback forms to give on arrival with QR codes and links to discussion groups and Meetups Group Twitter handle
-- Make sure any food is ordered and timing agreed
+- Handout/feedback forms to give on arrival with QR codes and links to the public 'beacon' channel and the meetup group Twitter account
+- Make sure any food is ordered, timing is agreed and sponsor attribute in place
 - Venue check to ensure room is as required and toilets are OK
 - What is the best table/seating layout for a Bitcoin Meetup?
 - Pop something dynamic on the screen like https://bits.monospace.live/ or https://www.bitlisten.com/ 
 	
 **Meet and Greet**
-Organiser and Greeters to welcome all attendees as they enter the private space and give them a handout/feedback form for the event to double check they are here for the Bitcoin Meetup! (and maybe familiarise them with the bar, toiles and seating plan if its not obvious)
+
+Organiser and Greeters to welcome all attendees as they enter the private space and give them a handout/feedback form for the event and double check they are here for the Bitcoin Meetup (and maybe familiarise them with the facilities and seating plan if it's not obvious)
 	
 ## Meetup Start 
 Satoshi to note:
 - What time did we start?_________ 
 - What is the current block height?____________ 
 - How many attendees are there?_______
+- Who is sponsoring this event food and freebies?____________________________________________________________________
 
-Satoshi: Welcome to the #th Bitcoin <Region Name> Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
+Satoshi: Welcome to the [MONTH] Bitcoin [REGION NAME] Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
 
-Introduction of the Satoshi for the night and their team and roles. Appeal for volunteers for roles next month. 
+I am your Satoshi for this event and helping me tonight are [TEAM and ROLES]. If you can volunteer for any of the roles at the next meetup please put your name down before you leave or talk to one of the organisersers.
 
-## Overview of Meetup
-These meetups provide an opportunity to learn about Bitcoin from individuals who have been studying it for many years and transact with Bitcoin (BTC) on a daily basis, both locally and globally. The goal of this group is to foster greater adoption in Nottingham among merchants and encourage the development of circular economies.
+The venue use tonight is sponsored by Tony of the Red Cat Pub Company & the refreshments and rewards are sponsored by Advanta Productions an Internet and Bitcoin consultancy here in West Bridgford, Nottingham
 
-Please note that this meetup is not meant to provide financial or investment advice. It is for informational and entertainment purposes only. No purchase is necessary, and we will not ask for any personal data unless you make an enquiry and request that we get back to you after the event. 
+## Meetup Overview
+These meetups are intended to provide an opportunity to learn about Bitcoin from individuals who have been studying it for many years and who transact with Bitcoin (BTC) on a daily basis, both locally and globally. The goal of this group is to foster greater adoption in Nottingham among merchants to attract Bitcoiners and their bitcoin to Nottingham and encourage the development of circular economies within the region.
 
-Always conduct your own research to verify any information you receive from us, as we might be mistaken or operating under incorrect assumptions ourselves!
+Please note that this meetup is not meant to provide financial or investment advice. It is for informational and entertainment purposes only. No purchase is necessary, and we will not ask for any personal data unless you make an enquiry and request that we get back to you after the event. Always conduct your own research to verify any information you receive from us, as we might be mistaken or operating under incorrect assumptions ourselves!
 
-## OGs and Newbies!
-satoshi: For a bit of fun and to get everyone warmed up and introduced we'll just have a bit of fun with this segments, but if you don't want to say anything then of course that is fine because like all things bitcoin it is 100% voluntary and optional!
+So please enjoy learning about this transformational technology through the presented content. We will break in an hour and after the break we'll have a bit more content and then workshop setting up Bitcoin Lightning wallet and exploring its basic features, namely receiving your first ever bitcoin, paying a lightning invoice of a specific amount, and just sending unspecified amounts to a wallet addresses or a custom Bitcoin Lightning Instant Payment Address (a blipa?!)
 
-satoshi: If you have been to a Bitcoin Meetup before give us a shout out of "Bitcoin is Freedom!" 
+## Introductions
 
-Bitcoin is Freedom!
+**Handle and Tribe**
 
-satoshi: If this is your very first meetup and you are feeling brave give us a shout out with "Bitcoin is Hope!"
+As this is a meetup rather than a presentation let's have a quick once round the room to give everyone the opportunity to introduce themselves. As we have to think about personal security quite carefully in Bitcoin let's share only these 2 pieces of data (optional, just say pass if you don't want to)
+- 1. What is your Name or Handle?
+- 2. What team or region are you representing? (What part of a city, country or community do you consider yourself to be one of?)
 
-Bitcoin is Hope!
+I'll start, I am [NAME] and I'm from West Bridgford and Keyworth
 
-satoshi: Join me in welcoming our first timers with a round of applause everyone, well done for making the effort first timers, you will be really glad you came tonight! Later on you will get the chance to download a bitcoin wallet and get n,000's of satoshis to experiment with if this is your first time.
+**What bitcoin thing did you bring?(or what do you want to learn or talk about)**
 
-## Tourists
-If there are any Bitcoin Meetup enthusiast or tourists from another region give us a shout out with "There is no second best!" 
-	
-There is no second best!
+Now everyone has spoken(or not) let's delve a little deeper, once round the room again to show off your bitcoin merch or thing and discover knowledge gaps and education requirements
+- 1. What is your Name or Handle?
+- 2. What awesome Bitcoin merch are you showing off and does it have a story behind it?
+- 3. What is puzzling you or fascinating you with Bitcoin at the moment?
 
-## The Most Dedicated Tourist Competition!
-The prize for this competition is n,000 satoshi to the person who has traveled the furthest to be here this evening! So if you have not been before and you think you might have come the furthest this evening to be here then shout out where you've come from...
-
-The winner is….
-	
-	Can I get at least 2 confirmations on that?!
-		
-		(Learn about Bitcoin transaction confirmations if you don't get this link)
-	
-	Does the winner have a lightning wallet address?
-	
-	(What about people who arrive after this segment?)
 
 
 ## First Timers Welcome
@@ -79,20 +70,6 @@ Cover the basics in 5-10 mins! with the start of "The Bitcoin Story"(help us wri
 
 ## Representing and Peacocking! 
 A super quick introduction for networking opportunities, chance to show off your favourite Bitcoin thing, and to see which areas of bitcoin the room needs to hear about again!
-
-### Handle and Tribe
-Quick once round the room and share only these 2 pieces of data(optional)
-- 1. What is your Name or Handle?
-- 2. Who are you Representing?
-What team or region are you representing? 
-
-(What part of a city, country or community do you consider yourself to be one of?)
-
-### What bitcoin thing did you bring?
-Now everyone has spoken(or not) let's delve a little deeper, once round the room again to show off your bitcoin merch or thing and discover knowledge gaps and education requirements
-- 1. What is your Name or Handle?
-- 2. What awesome Bitcoin merch are you showing off and does it have a story behind it?
-- 3. What 1 thing about Bitcoin is puzzling you or fascinating you at the moment?
 
 ## BTC<>Fiat Gateways and Bank Reports
 Which banks or exchanges do you have direct experience of and which services have you used successfully or know not to be working since last meetup
