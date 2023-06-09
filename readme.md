@@ -1,19 +1,20 @@
 # Bitcoin Meetup Template
 
-**You will need:**
+**Suggested Resources**
 - A private room or space away from other noise where you know you can control the environment (light, sounds, heat etc)
 - Presentation display(optional)
 - Mics and sounds system(optional)
+- Printed handouts with links to the public beacon channels
 
-**Roles(could all be done by 1 person if a small meetup):**
-- Satoshi [Region Name] (i.e. Satoshi Nottingham)
-- Greeter/Ushers
-- First Timers Welcomer (Can you think of a better name for this role?)
-- Producer
-- Photographer 
-- Security
+**Suggested Roles(could all be done by 1 person if a small meetup):**
+- Organiser Satoshi [Region Name] (i.e. Satoshi Nottingham) 
+- Greeters
+- First timers/newbies coach
+- Producer for presentations, sound and lighting
+- Dedicated photographer(s) to show proof of work (be sensitive to privacy/obfuscation requests)
+- Dedicated security person should there be any issues needing support
 
-## Pre Event Setup
+**Pre Event Setup**
 - Place signage near the entrance of the venue so first timers are confident they're in the right place
 - Have feedback forms to give on arrival with QR codes and links to discussion groups and Meetups Group Twitter handle
 - Make sure any food is ordered and timing agreed
@@ -21,12 +22,14 @@
 - What is the best table/seating layout for a Bitcoin Meetup?
 - Pop something dynamic on the screen like https://bits.monospace.live/ or https://www.bitlisten.com/ 
 	
-## Meet and Greet
-Welcome all attendees as they enter the private space. It is a good idea to have something to give people something they can hold and look at as soon as they come through the door and direct them to "get a drink at the bar" and "have a seat anywhere you like" 
+**Meet and Greet**
+Organiser and Greeters to welcome all attendees as they enter the private space and give them a handout/feedback form for the event to double check they are here for the Bitcoin Meetup! (and maybe familiarise them with the bar, toiles and seating plan if its not obvious)
 	
 ## Meetup Start 
-- Begin exactly at advertised time for those who were early or on time
-- Event Producer to note current block height and the number of attendees
+Satoshi to note:
+- What time did we start?_________ 
+- What is the current block height?____________ 
+- How many attendees are there?_______
 
 Satoshi: Welcome to the #th Bitcoin <Region Name> Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
 
