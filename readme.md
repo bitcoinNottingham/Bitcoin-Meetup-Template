@@ -29,7 +29,7 @@
 
 Organiser and Greeters to welcome all attendees as they enter the private space and give them a handout/feedback form for the event and double check they are here for the Bitcoin Meetup (and maybe familiarise them with the facilities and seating plan if it's not obvious)
 	
-## Meetup Start 
+## MEETUP START 
 
 Satoshi to note:
 - What time did we start?_________ 
@@ -111,7 +111,7 @@ Previous Speakers
 - Chris Dan on options for merchants and how you can earn rewards for orange pilling a business using Revolut
 
 
-## BAR BREAK 
+## Bar Break 
 
 - Get a drink in!
 - Enjoy Pizza sponsored by Advanta Productions Internet & Bitcoin Consultancy in Nottingham
@@ -178,21 +178,21 @@ First time Lightning Wallet users get 1,000 sats each to begin their Bitcoin jou
 	Learning: You have to give your wallet permissions to camera etc to scan qr codes, sometimes a wallet app works better on Android or iPhone, experiment!
 
 - Receive your first ever bitcoin!
-	Learning: SHARE a QR code to receive bitcoin on Lightning
+	Learning: You can share a QR code to receive unspecified amounts of bitcoin on Lightning
 
 - Pay a Lightning 'Invoice' of a specific amount
-	Learning: Sometimes you dont have a QR code, just a LNURL link instead
+	Learning: You might receive a LNURL invoice link which you pay before it expires in 10 mins
 
-- Receive any amount of bitcoin from anyone if they have your lightning wallet payment address like mine hairysweater43@loungeofsatoshi.com
-	Learning: Sometimes the only opportunity to transmit the payment address is verbal so this format is the same as an email address for easy transmission
+- Receive any amount of bitcoin from anyone without showing a QR code, by using a lightning wallet payment address like mine hairysweater43@loungeofsatoshi.com
+	Learning: Sometimes the only opportunity to transmit the payment address is verbal so this format is the same as an email address for easy transmission over the phone or in conversation
 	
 - Ultimately everyone will have their own super cool personalised address on their own domain name like sats@myshopname.com get your Bitcoin Lightning Instant Payment Address (a blipa!) bitcoinnottingham.org/blipa
+	Learning: There is always an upsell ;-)
 
 **Bitcoin Technical Explainer** 
 
-For more advanced bitcoiners here are 3 suggested topics about bitcoin to discuss while first timers are learning Lightning
+For more advanced bitcoiners here are 3 suggested topics about bitcoin to discuss while first timers are learning Lightning i.e
 
-i.e
 - Energy Consumption - What percentage of Bitcoin mining electricity is reportedly from renewable or stranded energy and how does bitcoin solve the peak load problem for power grids?
 - Difficulty Adjustment - What is the current difficulty and what number of leading zeros is this? (13 Apr 2023 - 19 zeros?)
 - Bitcoin Code Review - https://github.com/bitcoin (Who are the code guardians, who ultimately is responsible for approving new commits, will all commits get applied by all the nodes?
@@ -208,21 +208,28 @@ i.e
 ## Photo Opportunity
 
 Official Meetup Proof of Work photograph at block height/number nnn,nnn
+
 - Can you include an analogue of the current block number(and date) in the photographs to create unbreakable event records?
 - Use the satoshi masks or other face coverings for guests that might not want their faces in the images
 
-## Bitcoin Price!
+**Bitcoin Price!**
 
 Suggest leaving the bitcoin price discussions until the end as its a potentially infinite length conversation!
+
 - Current, high and low prices for last 24 hours/week/month/year/all time https://www.binance.com/en/trade/BTC_USDT?
 - Bitcoin CME Futures Gaps! https://finance.yahoo.com/quote/BTC-USD/history/
 - Predictions seen in the wild recently? 	
-	
-# In Closing
-If you want further information on any topics discussed this evening or have other bitcoin questions then please be sure to complete a feedback form so that we can follow up with you and share additional resources.
 
-# Next Meetup
+**Continuing the Discussions**
+
+You can join the Bitcoin Nottingham Meetup Group public Telegram channel at https://t.me/bitcoin_nottingham it is also linked from the website https://www.bitcoinnottingham.org or by scanning the QR codes you should all have been given when you arrive. Please also follow me on Twitter at twitter.com/BTCNottingham 
+
+**Next Meetup**
+
 Date, time and venue plus any special features
 
-# Continuing the Discussions
-Stay connected and join the Bitcoin [REGION-NAME] Meetup Telegram Group by scanning the QR code on the printouts or find the link to our Telegram channel https://t.me/bitcoin_nottingham on the website https://www.bitcoinnottingham.org 
+**In Closing**
+
+If you want further information on any topics discussed this evening or have other bitcoin questions then please be sure to complete a feedback form so that we can follow up with you and share additional resources.
+
+-ENDS-
