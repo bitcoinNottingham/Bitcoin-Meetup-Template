@@ -40,6 +40,7 @@ I am your Satoshi for this event and helping me tonight are [TEAM and ROLES]. If
 The venue use tonight is sponsored by Tony of the Red Cat Pub Company & the refreshments and rewards are sponsored by Advanta Productions an Internet and Bitcoin consultancy here in West Bridgford, Nottingham
 
 ## Meetup Overview
+
 These meetups are intended to provide an opportunity to learn about Bitcoin from individuals who have been studying it for many years and who transact with Bitcoin (BTC) on a daily basis, both locally and globally. The goal of this group is to foster greater adoption in Nottingham among merchants to attract Bitcoiners and their bitcoin to Nottingham and encourage the development of circular economies within the region.
 
 Please note that this meetup is not meant to provide financial or investment advice. It is for informational and entertainment purposes only. No purchase is necessary, and we will not ask for any personal data unless you make an enquiry and request that we get back to you after the event. Always conduct your own research to verify any information you receive from us, as we might be mistaken or operating under incorrect assumptions ourselves!
@@ -47,6 +48,8 @@ Please note that this meetup is not meant to provide financial or investment adv
 So please enjoy learning about this transformational technology through the presented content. We will break in an hour and after the break we'll have a bit more content and then workshop setting up Bitcoin Lightning wallet and exploring its basic features, namely receiving your first ever bitcoin, paying a lightning invoice of a specific amount, and just sending unspecified amounts to a wallet addresses or a custom Bitcoin Lightning Instant Payment Address (a blipa?!)
 
 ## Introductions
+
+A super quick introduction for networking opportunities, chance to show off your favourite Bitcoin thing, and to see which areas of bitcoin the room needs to hear about again!
 
 **Handle and Tribe**
 
@@ -63,36 +66,13 @@ Now everyone has spoken(or not) let's delve a little deeper, once round the room
 - 2. What awesome Bitcoin merch are you showing off and does it have a story behind it?
 - 3. What is puzzling you or fascinating you with Bitcoin at the moment?
 
+## First Content Section
 
+**Bitcoin Books**
 
-## First Timers Welcome
-Cover the basics in 5-10 mins! with the start of "The Bitcoin Story"(help us write this in open source): Satoshi Nakamoto, Whitepaper 31st October 2008, open source software peer to peer decentralized monetary network, Genesis block 3rd January 2009, 21 million max, one bitcoin Miner (or most likely a pool of miners) will create a new block of transactions on avergae every 10 minutes, the block rewards (a decreasing subsidy) are how new bitcoins are minted, difficulty adjustment of the hash rate every two weeks, every 4 years there is a halving of the subsidy until it is zeroed around the year 2140 and transaction fees become the miners sole income. Fast forward through the block size wars and bans and huge gains in value and huge crashes to today and the Bitcoin Lightning layer which let's you send the tiniest fractions of bitcoin "sats" from anyone's device to anyone elese's device at the speed of email for just a tiny % fee. First time users of a Lightning Wallet app can get n,000 sats to experiement with and share with others, from our sponsor this evening.
-
-## Representing and Peacocking! 
-A super quick introduction for networking opportunities, chance to show off your favourite Bitcoin thing, and to see which areas of bitcoin the room needs to hear about again!
-
-## BTC<>Fiat Gateways and Bank Reports
-Which banks or exchanges do you have direct experience of and which services have you used successfully or know not to be working since last meetup
-i.e. Revolut BTC withdrawal/Purchase to GBP is available, Binance fiat withdrawals due to be suspended?, Bitnob GBP withdrawals are still not available, Natwest & TSB banks are blocking bitcoin purchases if you try to send to some exchanges
-
-## Scam Watch
-An opportunity for members to inform fellow members of any Bitcoin scams to be aware of such as the clipboard BTC address switcher (is it real?) and the Word doc with macros pretending to be a bitcoin purchase receipt.
-
-## Fun Stuff (i.e. Bankers Bingo etc)
-https://twitter.com/BitcoinMagazine/status/1639585385465491457?s=20 
-Which banks have gone bust, had a bank run or bailout since the last meetup?
-
-## The Bitcoin Pizza segment. 
-On 22nd May 2010, Laszlo Hanyecz bought a pizza for 10,000 bitcoins. The current USD value of that pizza is https://twitter.com/bitcoin_pizza The Bitcoin pizza is worth [$nnn hundreds of millions of dollars] today. (+/- since last meetup)
-
-## Bitcoin App Spotlight
-An opportunity for members to report on any great Bitcoin apps or offers they found (not your own products) i.e
-- OrangePillApp
-- Lightsats.com
-- TheSunExchange.com
-	
-## Bitcoin Books
 What are some of the bitcoin books that members have read recently i.e.
+
+- [ ] Saifedean Ammous The Fiat Standard
 - [ ] Knut Svanholm Bitcoin: Everything divided by 21 million
 - [ ] Major Jason Lowrey Softwar
 - [ ] Alex Gladstein Check your financial privilege
@@ -100,7 +80,58 @@ What are some of the bitcoin books that members have read recently i.e.
 - [ ] G. Edward Griffin The creature from jekyll island
 - [ ] Knut Svanholm Bitcoin: Sovereignty Through Mathematics
 
-## Bitcoin Technical Explainer
+**Scam Watch**
+
+An opportunity for members to inform fellow members of any Bitcoin scams to be aware of such as the clipboard BTC address switcher (is it real?) and the Word doc with macros pretending to be a bitcoin purchase receipt.
+
+**BTC<>Fiat Gateways and Bank Reports**
+
+- Which banks or exchanges are supporting BTC to GBP withdrawals?
+- Which banks are blocking GBP transfers to exchanges?
+- Which apps support Daily DCA from GBP
+
+**The Bitcoin Pizza segment**
+
+On 22nd May 2010, Laszlo Hanyecz bought a pizza for 10,000 bitcoins. The current USD value of that pizza is https://twitter.com/bitcoin_pizza The Bitcoin pizza is worth [$nnn hundreds of millions of dollars] today. (+/- since last meetup)
+
+**Bitcoin App Spotlight**
+An opportunity for members to report on any great Bitcoin apps or offers they found (not your own products) i.e
+- OrangePillApp
+- Lightsats.com
+- TheSunExchange.com
+	
+## BAR BREAK 
+- Get a drink in!
+- Enjoy Pizza sponsored by Advanta Productions Internet & Bitcoin Consultancy in Nottingham
+- Satoshi's Bookmarks from #Bitcoin Twitter (BT)
+- Auction/Merch New caps, t-shirts, mugs and stickers!
+
+# PART TWO
+
+**Shilling Point!**
+Some 5-15 minute intros into a product or service offered by a member (The suggested qualification is the product must be Bitcoin branded somehow and be available to buy in BTC)
+- 1. Bill Aronson - https://binkbonkbank.com/
+- 2. Advanta Productions and the Bitcoin Nottingham sats shop demo ( www.bitcoinnottingham.org/bitcoin-shop )
+- 3. [YOUR FIRM HERE] 
+
+Previous Speakers
+- Chris Dan on options for merchants and how you can earn rewards for orange pilling a business using Revolut
+
+**First Timers / Newbies Intro**
+
+Cover the basics in 15 mins with "The Bitcoin Story" (help us write and improve on this story so it can live in open source for all to use): 
+
+Satoshi Nakamoto, Whitepaper 31st October 2008, open source software peer to peer decentralized monetary network, Genesis block 3rd January 2009 featuring The Times newspaper Headline "Chanceller on the Bring of Second Bank Bailout". 
+
+21 million maximum supply, a bitcoin Miner (or most likely a pool of miners) will create a new block of transactions on average every 10 minutes, the block rewards they receive (a decreasing subsidy currently 6.25 BTC) are how new bitcoins are minted, a difficulty adjustment of the hash rate every two weeks keeps the chain in time. 
+
+Every 4 years there is a halving of the subsidy until it is zero around the year 2140 and transaction fees become the miners sole income. 
+
+Fast forward through the block size wars, china bans and huge gains in value and huge crashes, to today and the Bitcoin Lightning layer which lets you send the tiniest fractions of bitcoin "sats" from anyone's device to anyone elese's device at the speed of email for just a tiny % fee. 
+
+First time users of a Lightning Wallet app can get n,000 sats to experiement with and share with others, from our sponsor this evening.
+
+**Bitcoin Technical Explainer**
 What 3 things about the way the bitcoin protocol works could we expand on this meetup?
 
 i.e
@@ -108,20 +139,6 @@ i.e
 - Difficulty Adjustment - What is the current number of zeros in the difficulty adjustment (13 Apr 2023 - 19 zeros?)
 - Bitcoin Code Review - https://github.com/bitcoin (Who are the code guardians, who ultimately is responsible for approving new commits, will all commits get applied by all the nodes?
 
-
-# BAR BREAK 
-- Get a drink in!
-- Enjoy Pizza sponsored by, (notice on screen)
-- Satoshi's Bookmarks from #Bitcoin Twitter (BT)
-- Auction/Merch New caps, t-shirts, mugs and stickers!
-
-# PART TWO
-
-## Shilling Point!
-Some 5-10 minute intros into a product or service offered by a member (The suggested qualification is the product must be Bitcoin branded somehow and be available to buy in BTC)
-- 1. Bitcoin Nottingham sats shop ( www.bitcoinnottingham.org/bitcoin-shop )
-- 2. Chris Dan on options for merchants and how you can earn rewards for orange pilling a business using Revolut
-- 3. [YOUR FIRM HERE]
 
 ## Workshopping Bitcoin Lighting (First timers)
 First time Lightning Wallet users get n,000 sats each to begin their Bitcoin journey with!
