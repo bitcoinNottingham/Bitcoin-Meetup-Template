@@ -35,7 +35,7 @@ Satoshi to note:
 
 Satoshi: Welcome to the [MONTH] Bitcoin [REGION NAME] Meetup which is now officially underway and marked at block height/number 7nn,nnn ! 
 
-I am your Satoshi for this event and helping me tonight are [TEAM and ROLES]. If you can volunteer for any of the roles at the next meetup please put your name down before you leave or talk to one of the organisersers.
+I am your Satoshi for this event and helping me tonight are [TEAM and ROLES]. If you can volunteer for any of the roles at the next meetup please put your name down before you leave or talk to one of the organisers.
 
 The venue use tonight is sponsored by Tony of the Red Cat Pub Company & the refreshments and rewards are sponsored by Advanta Productions an Internet and Bitcoin consultancy here in West Bridgford, Nottingham
 
