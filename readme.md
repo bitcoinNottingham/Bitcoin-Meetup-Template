@@ -29,7 +29,7 @@ Organiser and Greeters to welcome all attendees as they enter the private space 
 ## Meetup Start 
 Satoshi to note:
 - What time did we start?_________ 
-- What is the current block height?____________ 
+- What is the current block height?____________ https://blockheightdate.com/
 - How many attendees are there?_______
 - Who is sponsoring this event food and freebies?____________________________________________________________________
 
